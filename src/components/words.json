@@ -1,0 +1,164 @@
+[
+    {
+        "number": 1,
+        "word_en": "house",
+        "transcription": "[haus]",
+        "icon": "home",
+        "sentence_en": "This is my house",
+        "word_ua": "будинок",
+        "sentence_ua": "Це мій дім."
+    },
+    {
+        "number": 2,
+        "word_en": "apartment",
+        "transcription": "[ə’pɑːtmənt]",
+        "icon": "building",
+        "sentence_en": "My apartment is near",
+        "word_ua": "квартира",
+        "sentence_ua": "Моя квартира близко."
+    },
+    {
+        "number": 3,
+        "word_en": "bathroom",
+        "transcription": "[ ‘bɑːθruːm]",
+        "icon": "bath",
+        "sentence_en": "I'm inside the bathroom",
+        "word_ua": "ванна кімната",
+        "sentence_ua": "Я у ванній."
+    },
+    {
+        "number": 4,
+        "word_en": "balcony",
+        "transcription": "[ ‘bælkənɪ]",
+        "icon": "store",
+        "sentence_en": "The balcony commands a splendid view",
+        "word_ua": "балкон",
+        "sentence_ua": "З балкону відкривається прекрасний вид."
+    },
+    {
+        "number": 5,
+        "word_en": "bedroom",
+        "transcription": "[ ‘bedruːm]",
+        "icon": "bed",
+        "sentence_en": "Tom quietly closed the bedroom door",
+        "word_ua": "спальня",
+        "sentence_ua": "Том тихо закрив двері в спальню."
+    },
+    {
+        "number": 6,
+        "word_en": "doorbell",
+        "transcription": "[ ‘dɔːbel]",
+        "icon": "bell",
+        "sentence_en": "The doorbell rang",
+        "word_ua": "дверний дзвінок",
+        "sentence_ua": "Подзвонив у двері."
+    },
+    {
+        "number": 7,
+        "word_en": "door",
+        "transcription": "[dɔː]",
+        "icon": "door-closed",
+        "sentence_en": "Why was the door closed?",
+        "word_ua": "двері",
+        "sentence_ua": "Чому двері були зачинені?"
+    },
+    {
+        "number": 8,
+        "word_en": "window",
+        "transcription": "[ ‘wɪndəu]",
+        "icon": "city",
+        "sentence_en": "The window is closed.",
+        "word_ua": "вікно",
+        "sentence_ua": "Вікно закрито."
+    },
+    {
+        "number": 9,
+        "word_en": "garage",
+        "transcription": "[ ‘gærɑːʒ] ",
+        "icon": "warehouse",
+        "sentence_en": "The garage is at the side of the house.",
+        "word_ua": "гараж",
+        "sentence_ua": "Гараж знаходиться збоку від будинку."
+    },
+    {
+        "number": 10,
+        "word_en": "kitchen",
+        "transcription": "[ ‘kɪʧɪn]",
+        "icon": "utensils",
+        "sentence_en": "I'll clean up the kitchen later",
+        "word_ua": "кухня",
+        "sentence_ua": "Пізніше приберу кухню."
+    },
+    {
+        "number": 11,
+        "word_en": "shower",
+        "transcription": "[ ‘ʃəuə]",
+        "icon": "shower",
+        "sentence_en": "I take a shower every morning.",
+        "word_ua": "душ",
+        "sentence_ua": "Я принімаю душ кожного ранку."
+    },
+    {
+        "number": 12,
+        "word_en": "toilet",
+        "transcription": "[ ‘tɔɪlət]",
+        "icon": "toilet",
+        "sentence_en": "Do you have a roll of toilet paper?",
+        "word_ua": "туалет",
+        "sentence_ua": "У вас є рулон туалетного паперу?"
+    },
+    {
+        "number": 13,
+        "word_en": "university",
+        "transcription": "[juːnɪˈvɜːsɪtɪ]",
+        "icon": "university",
+        "sentence_en": "I have to go to the university.",
+        "word_ua": "університет",
+        "sentence_ua": "Я повинен піти в університет."
+    },
+    {
+        "number": 14,
+        "word_en": "book",
+        "transcription": "[bʊk]",
+        "icon": "book",
+        "sentence_en": "I don’t like this book.",
+        "word_ua": "книга",
+        "sentence_ua": "Мені не подобається ця книга. "
+    },
+    {
+        "number": 15,
+        "word_en": "money",
+        "transcription": "[ˈmʌnɪ]",
+        "icon": "money-bill-wave",
+        "sentence_en": "I ain’t got no money.",
+        "word_ua": "гроші",
+        "sentence_ua": "У мене немає ніяких грошей."
+    },
+    {
+        "number": 16,
+        "word_en": "stairs",
+        "transcription": "[steə’z]",
+        "icon": "gopuram",
+        "sentence_en": "I fell down the stairs in my haste.",
+        "word_ua": "сходи",
+        "sentence_ua": "В поспіху я впав зі сходів."
+    },
+    {
+        "number": 17,
+        "word_en": "shop",
+        "transcription": "[ʃɔp]",
+        "icon": "shopping-cart",
+        "sentence_en": "I will go to the shop and you stay at home.",
+        "word_ua": "магазин",
+        "sentence_ua": "Я піду в магазин, а ти залишайся вдома."
+    },
+    {
+        "number": 18,
+        "word_en": "help",
+        "transcription": "[help]",
+        "icon": "hands-helping",
+        "sentence_en": "Let me help you.",
+        "word_ua": "допомога",
+        "sentence_ua": "Давай я тобі допоможу."
+    }
+]
